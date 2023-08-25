@@ -1,4 +1,4 @@
-[assignments and due dates](./cal.md)
+[assignments and due dates](./calendar.md)
 
 # Advanced Topics in Interactive Audio
 
