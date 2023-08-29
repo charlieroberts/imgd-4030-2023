@@ -12,4 +12,4 @@
       to type fast. Or maybe you just have a few lines of code that you type and then modify for the rest of the performance. There are no wrong answers here.
         Write one page describing what you made, your aesthetic goals, the challenges you faced, and what you would continue to explore if you had more time to develop the performance.
         Critically assess your work, but at the same time, be gentle! It's your first time working with this software / technique and that should be reflected in your standards of assessment.
-    - One additional reading will be assigned after an in-class assessment, this will be announced in Discord and updated here
+    - Read [Circles, Sines, and Signals](https://jackschaedler.github.io/circles-sines-signals/), from the introduction to the "sine wave aliasing" lesson (12 lessons total). Due 9/1 (about 45 minutes - 1 hour, depending on how much of a trigonometry refresher you need). 
