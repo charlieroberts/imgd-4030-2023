@@ -6,7 +6,7 @@
     - Do:
        - The first 10 gibber "general" tutorials (30 minutes, due 8/29)
        - The gibber "music tutorials" (30 minutes, due 8/29)
-    - Make: Create a 3--5 minute live coding performance in [gibber](https://gibber.cc/playground). Record the performance using a screen capture technology of your choice
+    - Make: (Due 9/1) Create a 3--5 minute live coding performance in [gibber](https://gibber.cc/playground). Record the performance using a screen capture technology of your choice
       (I recommend [OBS](https://objs.project.com). There are lots of different strategies for this! You can start with all your code on the screen, and then highlight different
       parts at different times and run it, modifying as needed. Or you can start "from scratch"; this will probably result in inferior music, but is a fun challenge if you like
       to type fast. Or maybe you just have a few lines of code that you type and then modify for the rest of the performance. There are no wrong answers here.
