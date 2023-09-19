@@ -20,8 +20,17 @@
     - Read (Due 9/5): [The Programmed Music of Mini Metro](https://designingsound.org/2016/02/18/the-programmed-music-of-mini-metro-interview-with-rich-vreeland-disasterpeace)  
     - Watch (Due 9/5): [Serialism and Sonification in Mini Metro (GDC 2018)](https://www.youtube.com/watch?v=FgV4hSfsl00)
 
-  - 9/8
-    - Make: (Due 9/15) Using the First Person template in UE5, create a small world where the player can travel between three distinct pieces of procedural music. Each piece of music should feature at least three instruments and play indefinitely. You can drag your Metasound object into the level to place it, and then override the attenuation settings to control the radius of the sound field. On Tuesday we'll look at how to map sound effects to character actions; please prepare a procedural footfall sound to use for thia assignment also.
-    - Read/Complete: (Due 9/12) [Creating Procedural Music with Metasounds](https://docs.unrealengine.com/5.1/en-US/creating-procedural-music-with-metasounds/)
-    - Read: (Due 9/12) [How No Man's Sky Makes Original Music for Every Player](https://www.digitaltrends.com/gaming/no-mans-sky-music/)
-    
+- 9/8
+  - Make: (Due 9/15) Using the First Person template in UE5, create a small world where the player can travel between three distinct pieces of procedural music. Each piece of music should feature at least three instruments and play indefinitely. You can drag your Metasound object into the level to place it, and then override the attenuation settings to control the radius of the sound field. On Tuesday we'll look at how to map sound effects to character actions; please prepare a procedural footfall sound to use for thia assignment also.
+  - Read/Complete: (Due 9/12) [Creating Procedural Music with Metasounds](https://docs.unrealengine.com/5.1/en-US/creating-procedural-music-with-metasounds/)
+  - Read: (Due 9/12) [How No Man's Sky Makes Original Music for Every Player](https://www.digitaltrends.com/gaming/no-mans-sky-music/)
+
+- 9/19
+  - Make: (Due 9/26) Experimenting with Reverb. Using a template of your choice in Unreal (you're also welcome to create your own world from scratch) experiment with creating reverbs for at least four different spaces in Unreal. How realistic can you make these spaces sound? Ensure that footfalls for both run and walk are heard, as well as sound effects for jumping; these sound effects should all be authored in Metasounds with some procedural element to them, although you can use audiofile playback within your Metasound patches. For your four different spaces:
+  - At least one should use Unreal's built-in Reverberation system
+  - At least two should use Convolution Reverb Submix effects
+  - One should be experimental... this doesn't need to be realistic, but instead should be a crazy effect.
+In addition to the reverb algorithms you choose, you might also want to experiment with occlusion or custom materials; links to tutorials covering these topics will be distributed in the course Discord server. Write a brief description of each reverb you created how you tried to make it realistic (or experimental), approximately 350 words. 
+
+  - Read: (Due 9/26) [What is Reverb?](https://www.izotope.com/en/learn/reflecting-on-reverb-what-it-is-and-how-to-use-it.html#:~:text=De%2Dreverb.-,What%20is%20the%20definition%20of%20reverb%3F,the%20reflections%20eventually%20die%20off.)
+  - Experiment: (Due 9/26) [How Generative Music Works](https://teropa.info/loop/)
