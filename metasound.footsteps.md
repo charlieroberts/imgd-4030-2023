@@ -24,6 +24,8 @@ Go into the `Content > Characters > Animations > MF_Run_Fwd` Blueprint. For each
 ## Add sounds to our main animation Blueprint
 OK, here’s we we bring everything together. This is a fairly complex blueprint, so I’ve attached a screenshot for reference. Before you begin this part, make sure you have a Metasound to use for footstep sound effects.
 
+[Main Animation and Footprint Blueprint](./Screenshot%202023-09-29%20at%2011.43.44%20AM.png)
+
 1. Navigate to `Content > Mannequins > Animations` and then select either the `ABP` blueprint for Quinn or Manny depending on which one your project uses. Double click it to begin editing it.
 2. Find a spot in the Blueprint that can accept a large number of nodes. Start of your script by right clicking and searching for `AnimNotify_l_foot_plant`. Do the same for the right foot plant as well. Note that we could potentially trigger different sounds for different feet at this point.
 3. Next we need to determine what type of surface the player character is currently stepping on. We can do this using a *line trace*, which lets us trace a line from one point to another and see what we hit along the way (if anything). In this case we want to start at the players current position, and then travel down along the z-axis to see what floor material we hit. Right-click and choose the `Line Trace By Channel` node. Connect both of your animation notification nodes to its execution input (the top one).
