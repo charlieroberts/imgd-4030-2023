@@ -1,4 +1,7 @@
 # Unreal Soundscape Tutorial
+
+[Another tutorial in Unreal](https://docs.unrealengine.com/5.1/en-US/soundscape-in-unreal-engine/)
+
 1. Create a new first or third person project
 2. Turn the Soundscape plugin on (in Edit > Plugins). You’ll have to restart the editor.
 3. Go ahead and find a few different audiofiles / metasounds to use. For each audiofile / metasound, make sure you specify an attenuation class, otherwise your sound won’t be spatialized in the soundscape
