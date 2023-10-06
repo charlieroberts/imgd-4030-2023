@@ -34,3 +34,12 @@ In addition to the reverb algorithms you choose, you might also want to experime
 
   - Read: (Due 9/26) [What is Reverb?](https://www.izotope.com/en/learn/reflecting-on-reverb-what-it-is-and-how-to-use-it.html#:~:text=De%2Dreverb.-,What%20is%20the%20definition%20of%20reverb%3F,the%20reflections%20eventually%20die%20off.)
   - Experiment: (Due 9/26) [How Generative Music Works](https://teropa.info/loop/)
+
+ 10/6 Soundscapes
+     - Make: (Due 10/13) Create a level in a third-person project in Unreal that employs the following assets:
+         - A Soundscape Palette to procedurally generate environmental sounds
+         - Custom footstep, jump, and weapon firing sounds
+         - At least one room with a convolution reverb applied to it
+         - Procedural music created using Metasounds
+         - In addition to the procedural music, at least two other Metasound sources must be used for sound effects.
+         - Create a short video of the level and submit to Canvas.
